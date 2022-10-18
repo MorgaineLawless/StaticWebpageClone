@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<meta charset = "utf-8">
+<head>
+    <header>
+        Cyberpunk 2077-from the creators of The Witcher 3: Wild Hunt
+    </header>
+    <div>
+    <h1> 
+        EXPERIENCE NIGHT CITY ON NEXT-GEN
+    </h1>
+    </div>
+    <button type="submit" style="background-color: transparent; border-color: transparent;">
+        AVAILABLE NOW
+    </button>
+ 
+    <div>
+    <h3>
+        INCLUDES FREE NEXT-GEN UPGRADE FOR XBOX SERIES X|S AND PS5
+    </h3>
+    </div>
+    <div>
+    <h6>
+        CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A. All rights reserved. All other copyrights and trademarks are the property of their respective owners. 
+    </h6>
+    </div>
+</head>
