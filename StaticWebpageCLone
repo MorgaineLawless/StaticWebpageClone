@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <meta charset = "utf-8">
 <head>
+    <link rel="stylesheet" href="StaticWebpageClone.css">
+</head>
+<body> 
     <header>
         Cyberpunk 2077-from the creators of The Witcher 3: Wild Hunt
     </header>
@@ -12,7 +15,6 @@
     <button type="submit" style="background-color: transparent; border-color: transparent;">
         AVAILABLE NOW
     </button>
- 
     <div>
     <h3>
         INCLUDES FREE NEXT-GEN UPGRADE FOR XBOX SERIES X|S AND PS5
@@ -23,4 +25,4 @@
         CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2022 CD PROJEKT S.A. All rights reserved. All other copyrights and trademarks are the property of their respective owners. 
     </h6>
     </div>
-</head>
+</body>

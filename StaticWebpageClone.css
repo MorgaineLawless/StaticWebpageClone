@@ -1,0 +1,16 @@
+body{
+    background: url(https://www.cyberpunk.net/build/images/home5/cover-1920-en-7f23c66d.jpg);
+}
+
+h1{
+    text-align: right;
+}
+
+button{
+    float: right;
+    background-image: url(https://www.cyberpunk.net/build/images/home/button-b0577f22.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: right;
+}
